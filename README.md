@@ -14,7 +14,7 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/pengwingokla#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/gmail-light.svg)](mailto:john@unguyen.nttu@gmail.com#gh-light-mode-only)
-[![website](./img/igmail-dark.svg)](mailto:john@unguyen.nttu@gmail.com#gh-dark-mode-only)
+[![website](./img/gmail-dark.svg)](mailto:john@unguyen.nttu@gmail.com#gh-dark-mode-only)
 
 
 ### Languages and Tools
