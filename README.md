@@ -7,9 +7,11 @@
 
 ### Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/uyennguyen2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uyennguyen2001" height="30" width="40" /></a>
-<a href="https://instagram.com/pengwingokla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pengwingokla" height="30" width="40" /></a>
-<a href="https://discord.gg/pengwing__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pengwing__" height="30" width="40" /></a>
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/pengwingokla#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/pengwingokla#gh-dark-mode-only)
 </p>
 
 ### Languages and Tools
