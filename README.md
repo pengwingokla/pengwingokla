@@ -13,8 +13,8 @@
 (./img/instagram-light.svg)](https://www.instagram.com/pengwingokla#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/pengwingokla#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/gmail-light.svg)](mailto:john@unguyen.nttu@gmail.com#gh-light-mode-only)
-[![website](./img/gmail-dark.svg)](mailto:john@unguyen.nttu@gmail.com#gh-dark-mode-only)
+[![website](./img/gmail-light.svg)](mailto:john@unguyen.nttu@gmail.com#gh-light-mode-only| width=20))
+[![website](./img/gmail-dark.svg)](mailto:john@unguyen.nttu@gmail.com#gh-dark-mode-only| width=20))
 
 
 ### Languages and Tools
