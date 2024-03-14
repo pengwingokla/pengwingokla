@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Uyen Nguyen</h1>
-<h3 align="center">A passionate developer from Vietnam</h3>
+<h1 align="left">Hi 👋, I'm Uyen Nguyen</h1>
+<h3 align="left">A passionate developer from Vietnam</h3>
 
 <br>🌱 I’m currently completing **BsMs of Data Science at NJIT**
 <br>🔭 I’m currently working on [Machine Learning YouTube Video Search](https://github.com/pengwingokla/Machine-Learning-Video-Search.git)
 <br>📫 How to reach me unguyen.nttu@gmail.com
 
 ### Connect with me
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/uyennguyen2001/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/uyennguyen2001/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/pengwingokla#gh-light-mode-only)
+[![website]
+(./img/instagram-light.svg)](https://www.instagram.com/pengwingokla#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/pengwingokla#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/gmail-light.svg)](mailto:john@unguyen.nttu@gmail.com#gh-light-mode-only)
@@ -37,3 +38,4 @@
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="26" height="26"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26" height="26"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="26" height="26"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="26" height="26"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="26" height="26"/> </a>  </p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pengwingokla&theme=dark" alt="pengwingokla" /></p>
+
