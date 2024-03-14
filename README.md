@@ -6,13 +6,12 @@
 <br>📫 How to reach me unguyen.nttu@gmail.com
 
 ### Connect with me
-<p align="left">
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/pengwingokla#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/pengwingokla#gh-dark-mode-only)
-</p>
+
 
 ### Languages and Tools
 #### Programming Languages
