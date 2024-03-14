@@ -35,4 +35,3 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pengwingokla&theme=dark" alt="pengwingokla" /></p>
 
-![Metrics](https://metrics.lecoq.io/pengwingokla?template=classic&habits=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=America%2FNew_York)
