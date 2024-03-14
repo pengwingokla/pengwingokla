@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Uyen Nguyen</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
 
+[![Spotify](spotify-now-playing-git-main-pengwingoklas-projects.vercel.app)](https://open.spotify.com/user/fwei1kzngjxe6swo6o5zmc77q)
+
 <br>🌱 I’m currently completing **BsMs of Data Science at NJIT**
 <br>🔭 I’m currently working on [Machine Learning YouTube Video Search](https://github.com/pengwingokla/Machine-Learning-Video-Search.git)
 <br>📫 How to reach me unguyen.nttu@gmail.com
