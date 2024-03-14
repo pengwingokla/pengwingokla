@@ -9,8 +9,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/uyennguyen2001/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/uyennguyen2001/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website]
-(./img/instagram-light.svg)](https://www.instagram.com/pengwingokla#gh-light-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/pengwingokla#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/pengwingokla#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/gmail-light.svg)](mailto:unguyen.nttu@gmail.com#gh-light-mode-only))
