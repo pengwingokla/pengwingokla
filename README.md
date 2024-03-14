@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Uyen Nguyen</h1>
-<h3 align="center">A passionate developer from Vietnam</h3>
+<h1 align="left">Hi 👋, I'm Uyen Nguyen</h1>
+<h3 align="left">A passionate developer from Vietnam</h3>
 
 <br>🌱 I’m currently completing **BsMs of Data Science at NJIT**
 <br>🔭 I’m currently working on [Machine Learning YouTube Video Search](https://github.com/pengwingokla/Machine-Learning-Video-Search.git)
@@ -9,7 +9,8 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/pengwingokla#gh-light-mode-only)
+[![website]
+(./img/instagram-light.svg)](https://www.instagram.com/pengwingokla#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/pengwingokla#gh-dark-mode-only)
 
 
