@@ -3,7 +3,7 @@
 
 [![Spotify](spotify-now-playing-git-main-pengwingoklas-projects.vercel.app)](https://open.spotify.com/user/fwei1kzngjxe6swo6o5zmc77q)
 
-[<img src="https://spotify-now-playing-git-main-pengwingoklas-projects.vercel.app/api/spotify-playing" alt="Spotify Now Playing width="350" />](https://open.spotify.com/user/fwei1kzngjxe6swo6o5zmc77q)
+[<img src="https://spotify-now-playing-git-main-pengwingoklas-projects.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/fwei1kzngjxe6swo6o5zmc77q)
 
 <br>🌱 I’m currently completing **BsMs of Data Science at NJIT**
 <br>🔭 I’m currently working on [Machine Learning YouTube Video Search](https://github.com/pengwingokla/Machine-Learning-Video-Search.git)
