@@ -6,11 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pengwingokla" alt="pengwingokla" /></a> </p>
 
 - 🔭 I’m currently working on [Machine Learning YouTube Video Search and Retrieval](https://github.com/pengwingokla/Machine-Learning-Video-Search.git)
-
 - 🌱 I’m currently completing **Bs Ms of Data Science at NJIT**
-
-- 📫 How to reach me **unguyen.nttu@gmail.com
-**
+- 📫 How to reach me unguyen.nttu@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
