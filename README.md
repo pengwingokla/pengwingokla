@@ -4,7 +4,7 @@
 <br>🌱 I’m pursuing **MS of Data Science at NJIT**
 <br>🔭 I’m currently working on [Machine Learning YouTube Video Search](https://github.com/pengwingokla/Machine-Learning-Video-Search.git)
 <br>📫 How to reach me unguyen.nttu@gmail.com
-🔭 I'm currently very interested in front-end, database design, and contributing to open source projects! :)
+<br>🔭 I'm currently very interested in front-end, database design, and contributing to open source projects! :)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gable-github&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
