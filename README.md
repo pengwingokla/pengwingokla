@@ -5,7 +5,17 @@
 <br>🔭 I’m currently working on [Machine Learning YouTube Video Search](https://github.com/pengwingokla/Machine-Learning-Video-Search.git)
 <br>📫 How to reach me unguyen.nttu@gmail.com
 🔭 I'm currently very interested in front-end, database design, and contributing to open source projects! :)
- 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gable-github&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### Connect with me
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/uyennguyen2001/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/uyennguyen2001/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/pengwingokla#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/pengwingokla#gh-dark-mode-only)
+
+
 # 💻 Tech Stack
 #### Languages: 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -31,12 +41,5 @@
 #### Design:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pengwingokla&theme=dark" alt="pengwingokla" /></p> -->
-
-### Connect with me
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/uyennguyen2001/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/uyennguyen2001/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/pengwingokla#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/pengwingokla#gh-dark-mode-only)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pengwingokla&theme=dark" alt="pengwingokla" /></p> 
 
