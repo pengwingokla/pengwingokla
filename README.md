@@ -2,7 +2,7 @@
 <h3 align="left">A passionate developer from Vietnam</h3>
 
 <br>🌱 I’m pursuing **MS of Data Science at NJIT**
-<br>🔭 I’m currently working on [Machine Learning YouTube Video Search](https://github.com/pengwingokla/Machine-Learning-Video-Search.git)
+<br>🔭 I’m currently working on [Parallel Car Detector with Amazon SQS and Rekognition]([https://github.com/pengwingokla/Parallel-Detector-with-Amazon-SQS-and-Rekognition])
 <br>📫 How to reach me unguyen.nttu@gmail.com
 <br>🔭 I'm currently very interested in front-end, database design, and contributing to open source projects! :)
 
