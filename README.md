@@ -4,7 +4,7 @@
 <br>🌱 I’m pursuing **MS of Data Science at NJIT**
 <br>🔭 I’m currently working on [Parallel Car Detector with Amazon SQS and Rekognition]([https://github.com/pengwingokla/Parallel-Detector-with-Amazon-SQS-and-Rekognition])
 <br>📫 How to reach me unguyen.nttu@gmail.com
-<br>🔭 I'm currently very interested in front-end, database design, and contributing to open source projects! :)
+<br>🔭 I'm currently very interested in AI/ML applications and contributing to open source projects! :)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gable-github&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
