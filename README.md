@@ -1,4 +1,4 @@
-### UYEN NGUYEN... *or call me Chloe*
+### UYEN NGUYEN... *or call me Chloe* ‧₊˚🎧⊹♡ ₊˚🎐
 #### **Applied AI Engineer** building production multi-agent systems
 
 ```python
@@ -16,7 +16,7 @@ stack = {
 - RAG Agentic-based Knowledge Graph Contruction
 
 #### After hours
-When I'm not coding, I'm learning astrology and how to read birth charts.
+When I'm not coding, I'm learning astrology and how to read birth charts, or probably whisking matcha.. ୧ ‧₊˚ 🍵 ⋅
 
 ---
 
