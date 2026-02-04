@@ -5,8 +5,8 @@
 stack = {
     "agents": ["LangGraph", "Google ADK", "MCP", "LangChain"],
     "ml": ["PyTorch", "Tensorflow", "MLFLow", "HuggingFace", "Vertex AI", "scikit-learn"],
-    "data": ["dbt", "BigQuery", "Spark", "Pandas"],
-    "infra": ["GCP", "AWS", "Airflow", "Elasticsearch", "Docker"]
+    "data": ["dbt", "BigQuery", "Spark", "Pandas", "Tableau"],
+    "infra": ["GCP", "AWS", "Airflow", "Docker", "Snowflake", "Elasticsearch"]
 }
 ```
 
