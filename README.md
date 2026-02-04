@@ -1,4 +1,4 @@
-### UYEN NGUYEN or... *call me Chloe*
+### UYEN NGUYEN... *or call me Chloe*
 #### **Applied AI Engineer** building production multi-agent systems
 
 ```python
