@@ -20,4 +20,4 @@ When I'm not coding, I'm learning astrology and how to read birth charts, or pro
 
 --
 
-*M.S. Computational Data Science @ NJIT | Open to opportunities*
+*M.S. Computational Data Science @ NJIT*
